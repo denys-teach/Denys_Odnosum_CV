@@ -28,9 +28,13 @@
   <img src="https://img.shields.io/badge/nvidia-gtx%20720-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
 </p>
 
-<!-- <details align='center'>
-  <summary>:zap: My workspace specs</summary>
-</details>-->
+## About me
+
+<p>Since childhood, I have been captivated by technology and computers, and it is this passion that has inspired my career choice in programming. Throughout my education, I have studied various programming languages, but over time, I realized that JavaScript is what I want to pursue.
+
+I have focused on expanding my knowledge and skills in JavaScript, with a particular emphasis on understanding its core concepts and capabilities. I have explored web development and started learning modern frameworks such as React, which enable the creation of powerful web applications.
+
+The JavaScript Developer Internship represents a significant opportunity for me to combine my knowledge with practical experience. I aspire to work on real projects where I can apply my skills and learn from experienced professionals. I am confident that my motivation, perseverance, and eagerness to learn will make me a valuable addition to your team of interns.</p>
 
 <p align='center'>
   📫 How to reach me: <a href='mailto:dentyta5000@gmail.com'>dentyta5000@gmail.com</a>
@@ -80,7 +84,7 @@
 
 - 👨‍💻 **Seller-consultant of mobile accessories and equipment**\
 📆 2020 - aug/2021\
-📍 **Avanade** - kharkiv, Ukraine
+📍 **Mobilochka** - Kharkiv, Ukraine
 
 ## Skills
 
