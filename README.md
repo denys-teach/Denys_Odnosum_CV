@@ -1,4 +1,4 @@
 ### Hi, I`m Denys👋
 👩‍💻 Languages:
-<img src="{[BadgeURLHere](https://gists-readme.yizack.com/api/pin?user={denys-teach}&id={gist_id}&owner=true)https://gists-readme.yizack.com/api/pin?user={denys-teach}&id={gist_id}&owner=true}" />
+<img src="{https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white}" />
 
